@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+#include<stdlib.h>
 #define jingdu 1e-7
 #define pi 3.1415926
 _int64 fac(unsigned long n)  
@@ -79,4 +80,5 @@ int main()
 	else 
 		printf("fcotx:null\n");
     printf("cotx=%.51f \n",cos(r)/sin(r));
+	system("pause");
 } 
