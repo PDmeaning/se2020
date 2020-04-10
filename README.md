@@ -14,6 +14,8 @@
        │  │  trigon_1.0.py     //三角函数1.0版源码
        │  │  trigon_1.1.py     //三角函数1.1版源码
        │  │  trigon_1.2.py     //三角函数1.2版源码
+       │  │  trigon_1.3.py     //三角函数1.3版源码
+       │  │  trigon_1.4.py     //三角函数1.4版源码
        │  │
        │  └─.idea     //intellij idea工程配置目录
        │          misc.xml
@@ -42,7 +44,7 @@
 - **Python**
 > 1.[安装Python（点击可以看到教程）](https://www.cnblogs.com/lvtaohome/p/11121377.html)
 
-> 2.直接运行目录中的trigon_1.2.py
+> 2.直接运行目录中的trigon_1.4.py
 
 > 3.输入角度值
 
@@ -76,13 +78,17 @@
 
 
 # ChangeLog
+  **2020年4月10日**
+-    README说明文件第四版
+
   **2020年4月9日**
 -    修复C和Python运行一闪而过的问题
 -    README说明文件第三版
+-    Python第四版上传
 
   **2020年3月27日**
   -    修复Python第二版BUG
-  -    README说明文件第一版
+  -    README说明文件第二版
   
  **2020年3月21日**
  -    上传C语言第一版代码
